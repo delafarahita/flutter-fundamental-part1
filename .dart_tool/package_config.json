@@ -32,10 +32,10 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "cupertino_icons",
-      "rootUri": "file:///C:/Users/DELA%20FARAHITA%20ZEIN/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.8",
+      "name": "english_words",
+      "rootUri": "file:///C:/Users/DELA%20FARAHITA%20ZEIN/AppData/Local/Pub/Cache/hosted/pub.dev/english_words-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -86,8 +86,20 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///C:/Users/DELA%20FARAHITA%20ZEIN/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///C:/Users/DELA%20FARAHITA%20ZEIN/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///C:/Users/DELA%20FARAHITA%20ZEIN/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -146,13 +158,13 @@
       "languageVersion": "3.1"
     },
     {
-      "name": "hello_world",
+      "name": "namer_app",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-10-02T02:34:41.631370Z",
+  "generated": "2024-10-03T00:09:29.320824Z",
   "generator": "pub",
   "generatorVersion": "3.1.5"
 }

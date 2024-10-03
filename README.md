@@ -74,3 +74,36 @@
 ### Langkah 6: Date and Time Pickers
 ![alt text](image-35.png)
 ![alt text](image-36.png)
+
+## Codelabs: Your first Flutter app
+### Copy & Paste the initial app
+![alt text](image-37.png)
+![alt text](image-38.png)
+![alt text](image-39.png)
+### Add a button
+Launch the app:
+![alt text](image-40.png)
+![alt text](image-41.png)
+First Hot Reload:
+![alt text](image-42.png)
+Adding a button:
+![alt text](image-43.png)
+A Flutter crash course in 5 minutes:
+![alt text](image-44.png)
+Your first behavior:
+![alt text](image-45.png)
+### Make the app prettier
+![alt text](image-51.png)
+### Add functionality
+![alt text](image-52.png)
+![alt text](image-53.png)
+![alt text](image-54.png)
+### Add navigation rail
+![alt text](image-55.png)
+![alt text](image-56.png)
+![alt text](image-57.png)
+![alt text](image-58.png)
+### Add a new page
+![alt text](image-62.png)
+![alt text](image-63.png)
+![alt text](image-64.png)
